@@ -1,0 +1,2 @@
+Server API hiện tại sẽ chạy trên http://localhost:8001 cho Domain Auth-Service và http://localhost:8002 cho Domain Account-Service
+Vì lí do chạy trực tiếp trên Supabase nên không cần có db trong file docker-compost.yml
